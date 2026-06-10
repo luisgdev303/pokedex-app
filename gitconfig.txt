@@ -2,3 +2,9 @@ git config --global user.name luisgdev303
 git config --global user.email luisg.dev.lu@gmail.com
 
 npx create-expo-app@latest pokedex
+
+cd pokedex
+
+npm run reset-project
+
+npm i @expo/vector-icons
